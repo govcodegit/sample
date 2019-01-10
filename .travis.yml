@@ -1,4 +1,4 @@
 jdk:
   - openjdk8
 script:
-  - ./gradlew fatJar && java -jar build/libs/sample-1.0.jar
+  - ./gradlew fatJar && java -jar build/libs/file-1.0.jar
